@@ -1,0 +1,29 @@
+body {
+  background-color: cyan;
+}
+.container {
+  background-color: rgb(33, 31, 100);
+  width: 50vw;
+  max-height: 50vh;
+  display: flex;
+  margin: auto auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+}
+input {
+  text-align: center;
+  height: 40px;
+  width: 80%;
+  margin: 10px 0;
+}
+
+button {
+  background-color: rgb(93, 91, 153);
+  padding: 10px 15px;
+  border-radius: 10px;
+  color: rgb(199, 204, 211);
+  font-weight: 800;
+  border: 0px;
+}
